@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dieguesmsken
+- 👋 Hi, I’m @dieguesmosken
 - 👀 I’m interested in programing games
 - 🌱 I’m currently learning Unity 3D, Blender, Fusion360 and Others
 - 💞️ I’m looking to collaborate on my friends
