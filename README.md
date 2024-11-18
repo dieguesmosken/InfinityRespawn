@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TeuzinYTBR
-- 👀 I’m interested in programing codes
-- 🌱 I’m currently learning HTML, CSS, JS, and NFTs
+- 👋 Hi, I’m @dieguesmsken
+- 👀 I’m interested in programing games
+- 🌱 I’m currently learning Unity 3D, Blender, Fusion360 and Others
 - 💞️ I’m looking to collaborate on my friends
 
 
